@@ -74,8 +74,9 @@ public abstract class Ant extends Mob {
 		
 		if(jump) {
 			jump_timer--;
-			if(jump_timer == 0) {
+			if(jump_timer <= 0 && jump_timer > -8) {
 				jump = false;
+			} else if (jump_timer < -8) {
 				jump_timer = 10;
 			} else {
 				dy = -2;
