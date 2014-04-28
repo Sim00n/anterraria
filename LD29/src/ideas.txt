@@ -1,0 +1,66 @@
+Theme: Beneath the Surface  (Pod powierzchni¹)
+
+Interpretation:
+	Beneath the surface of the Earth
+	Beneath an object
+		Table
+		Toilet seat
+	Beneath the water level (ocean?)
+	Beneath ice
+	Other planet?
+	
+Type:
+	Economy + Strategy
+	Escape
+	
+
+Ideas: 
+	Travel to the Earth's core
+	Small animal kingdom
+	Bugs?
+	Nuclear bunker
+	You're a bacteria underneath toilet seat
+	Plague - bacteria version?
+	Dig to hell
+	Submarine warfare
+	Oil Tycoon
+	Archaeology
+	Coal Mine Tycoon
+	Bacteria survival underneath the skin ( levels = parts of the body, element of strategy - clicking to achieve new points/tokens?)
+	Food chain in the ocean
+	Resource extraction - you start on the surface (selling resources for $$$ which you use to improve your equipment)
+	Phobias?
+	Coffin Tycoon
+	
+	
+Idea for now:
+	Economy + Strategy
+	Beneath the surface of the earth (or another planet)
+	Your job is to drill for resources, sell them and improve your equipment to dig even deeper. 
+	
+Alternative:
+	Theme: Ants' nest, you're the keeper
+	
+	World:
+		Water tank
+		Or open world
+		
+	Mechanics:
+		You control groups of ants and aid them in performing their job.
+		You start with a couple of ants and try to create a healthy environment.
+		Mechanics kinda like Prison Architect but not necessarily that strict.
+	
+	Goal:
+		LD Intermediate:
+			The nest will be a subject to many different attacks. Your role is to protect it from those attacks by raising fighter ants.
+			Those ants however need food to survive. You'll have to use different kinds of ants to perform their role in getting resources, breeding and raising fighters.
+			Time is the key and that's how you'll be getting scored - time of survival.
+			
+		Final:
+		
+		
+		
+		
+		
+		
+	
