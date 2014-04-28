@@ -26,11 +26,13 @@ public class Camera extends Entity {
 		if(Keyboard.right && (Keyboard.shift || Mouse.getButton() == MouseEvent.BUTTON3)) x += dx;
 		
 		if(x - Game.WIDTH/2 < 0) 
-			x = 251;
+			x = Game.WIDTH/2;
 		if(x > Level.level.width * 16 - Game.WIDTH/2)
-			x = 2949;
-		if(y - Game.WIDTH/2 < 0)
-			y = 251;
+			x = Level.level.width * 16 - Game.WIDTH/2;
+		if(y - Game.HEIGHT/2 < 0)
+			 y = Game.HEIGHT/2;
+		if(y >  Level.level.height * 16 - Game.HEIGHT/2)
+			y = Level.level.height * 16 - Game.HEIGHT/2;
 		
 	}
 	
